@@ -33,7 +33,7 @@ The EU AI Act sets a global precedent for AI regulation. Just as GDPR became the
 
 ## YouTube Video Link
 
-**Gonna add it soon**
+**https://www.youtube.com/watch?v=H4qhl_dLcYo**
 
 ---
 
