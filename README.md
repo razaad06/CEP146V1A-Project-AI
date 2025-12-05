@@ -9,11 +9,11 @@
 
 ## What's Our Topic About?
 
-The European Union's Artificial Intelligence Act (EU AI Act) is the world's first comprehensive legal framework regulating artificial intelligence. Officially entering into force on August 1, 2024, this landmark legislation establishes a risk-based approach to AI governance, categorizing AI systems from minimal to unacceptable risk levels. The Act bans certain AI practices outright—including social scoring and manipulative AI—while imposing strict requirements on high-risk applications in areas like healthcare, employment, and law enforcement.
+The European Union's Artificial Intelligence Act (EU AI Act) is the world's first comprehensive legal framework regulating artificial intelligence. Officially entering into force on August 1, 2024, this landmark legislation establishes a risk based approach to AI governance, categorizing AI systems from minimal to unacceptable risk levels. The Act bans certain AI practices outright which includes social scoring and manipulative AI, all while imposing strict requirements on high risk applications in areas like healthcare, employment, and law enforcement.
 
 ## Why Is This Imoprtant? 
 
-The EU AI Act sets a global precedent for AI regulation. Just as GDPR became the worldwide standard for data privacy, the AI Act is expected to influence how AI is developed and deployed around the world. Any company wanting to operate in the EU market—including American tech giants—must comply with these rules, effectively making EU standards the baseline for global AI governance.
+The EU AI Act sets a global precedent for AI regulation. Just as GDPR became the worldwide standard for data privacy, the AI Act is expected to influence how AI is developed and deployed around the world. Any company wanting to operate in the EU market including American tech giants HAVE TO comply with these rules, effectively making EU standards the baseline for global AI governance.
 
 ---
 
